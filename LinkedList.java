@@ -10,7 +10,8 @@ package studikasusuts;
  */
 public class LinkedList {
     Node first;
-     LinkedList()
+    
+    LinkedList()
      {
          this.first=null;
      }
